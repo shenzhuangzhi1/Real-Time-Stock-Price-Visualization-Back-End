@@ -1,5 +1,5 @@
 # Real-Time-Stock-Price-Visualization
-A demo for Real-Time Stock Price Visualization
+A demo for Real-Time Stock Price Visualization Back-end
 
 
 
@@ -10,4 +10,5 @@ A demo for Real-Time Stock Price Visualization
 
 ## 2 step: Display
 
+ - React 18 & Next.js 15
  - web UI: https://github.com/tradingview/lightweight-charts
