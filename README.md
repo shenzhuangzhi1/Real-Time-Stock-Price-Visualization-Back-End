@@ -1,9 +1,9 @@
-# Real-Time-Stock-Price-Visualization
+# Real-Time-Stock-Price-Visualization-Back-end
 A demo for Real-Time Stock Price Visualization Back-end
 
 
 
-## 1 step: Get data form Aloha Vantage API
+## 1 step: Get data form Alpha Vantage API
 
  - It use Django to handle all the request
  - 
